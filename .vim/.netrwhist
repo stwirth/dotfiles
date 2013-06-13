@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/stwirth/Dropbox/Dokumente/Bewerbungen/201211_willowgarage'
+let g:netrw_dirhist_2='/home/stwirth/Dropbox/Dokumente/Bewerbungen/201208'
+let g:netrw_dirhist_3='/wg/stor5/swirth/src/g2o/g2o/examples/calibration_odom_laser'
+let g:netrw_dirhist_4='/wg/stor5/swirth/catkin_ws/src/platformbot_apps/platformbot_laser_odom_calibration/src/platformbot_laser_odom_calibration'
+let g:netrw_dirhist_5='/wg/stor5/swirth/src/g2o/g2o/examples/calibration_odom_laser'
+let g:netrw_dirhist_6='/home/swirth/localization_tests/gmapping/50_rot_trans_err'
+let g:netrw_dirhist_7='/home/swirth/localization_tests/gmapping/51_likelihood'
+let g:netrw_dirhist_8='/wg/stor5/swirth/catkin_ws/src/open_karto/doc'
+let g:netrw_dirhist_9='/wg/stor5/swirth/catkin_ws/src/platformbot_apps/platformbot_odom_laser_calibration'

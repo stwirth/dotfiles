@@ -1,0 +1,6 @@
+[user]
+	name = Stephan Wirth
+	email = swirth@willowgarage.com
+[alias]
+	ci = commit
+	co = checkout
